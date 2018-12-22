@@ -1,1 +1,0 @@
-"use strict";$(function(){$(".skill").hover(function(){$(this).find(".skill-icon").addClass("colored")},function(){$(this).find(".skill-icon").removeClass("colored")}),$('[data-toggle="tooltip"]').tooltip()});
